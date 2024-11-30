@@ -40,7 +40,7 @@ else if (args.Length == 1)
         {
             opt.ShowConstructorElapsedTime = true;
             opt.ShowTotalElapsedTimePerDay = true;
-            opt.ProblemAssemblies = [.. assembliesByYear.Values, .. opt.ProblemAssemblies];
+            opt.ProblemAssemblies = [.. yearAssemblies, .. opt.ProblemAssemblies];
         });
     }
 }
