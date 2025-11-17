@@ -4,7 +4,7 @@
 
 Advent of Code template based on [AoCHelper](https://github.com/eduherminio/AoCHelper) project, that showcases how to keep problems from multiple years in the same repositor by yusing one project per year.
 
-⚠️ If you're not familiar with [AoCHelper](https://github.com/eduherminio/AoCHelper) and the basic template, please have a look at [eduherminio/AdventOfCode.Template](https://github.com/eduherminio/AdventOfCode.Template) first, a simpler template (based on one repository per year approach) where the Solver and the Day classesare in the same assembly.
+⚠️ If you're not familiar with [AoCHelper](https://github.com/eduherminio/AoCHelper) and the basic template, please have a look at [eduherminio/AdventOfCode.Template](https://github.com/eduherminio/AdventOfCode.Template) first, a simpler template (based on one repository per year approach) where the Solver and the Day classes are in the same assembly.
 
 [AoCHelper README file](https://github.com/eduherminio/AoCHelper#advanced-usage) also includes valuable information about how to use and extend the library.
 
